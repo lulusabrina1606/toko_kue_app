@@ -1,16 +1,22 @@
-# toko_delina_cake
+# Toko Kue App 🧁
 
-A new Flutter project.
+Aplikasi toko kue sederhana berbasis Flutter yang dikembangkan oleh Lulu Sabrina.  
+Fitur-fitur: login, register, home, keranjang belanja, checkout, dan halaman pengaturan.
 
-## Getting Started
+## 📱 Fitur Utama
+- Autentikasi pengguna (login/register)
+- Halaman beranda dengan daftar kue
+- Detail produk kue
+- Tambahkan ke keranjang & checkout
+- Edit profil pengguna
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+- Flutter
+- Dart
+- Firebase (Auth & Database)
+- Provider (State Management)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👩‍💻 Dibuat oleh
+Lulu Sabrina  
+Universitas Pembangunan Panca Budi Medan – Sistem Komputer  
+GitHub: [@lulusabrina1606](https://github.com/lulusabrina1606)
