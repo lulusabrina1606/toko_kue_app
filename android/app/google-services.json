@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823141022539",
+    "project_id": "delunatokokue",
+    "storage_bucket": "delunatokokue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823141022539:android:0f5d4e3f62ef4e8b0886ce",
+        "android_client_info": {
+          "package_name": "com.deluna.toko_kue_app_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCey7cDSlWRqLn7qepWFglM0d8CkjxYUkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

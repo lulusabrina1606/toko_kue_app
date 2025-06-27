@@ -1,0 +1,20 @@
+lib/
+├── main.dart                  <-- File utama aplikasi
+├── screens/                   <-- Semua file layar/screen UI
+│   ├── home_screen.dart
+│   ├── login_screen.dart
+│   ├── register_screen.dart
+│   ├── profile_screen.dart
+│   ├── edit_profile_screen.dart   <-- <-- Ini file yang tadi aku kasih
+│   ├── cart_screen.dart
+│   ├── checkout_screen.dart
+│   ├── order_history_screen.dart
+│   └── cake_detail_screen.dart
+├── models/                    <-- Model data
+│   └── cake.dart
+├── providers/                 <-- Provider state management
+│   ├── user_provider.dart
+│   └── cart_provider.dart
+├── theme/                     <-- File tema warna dan styling
+│   └── colors.dart
+└── widgets/                   
